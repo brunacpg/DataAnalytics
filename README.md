@@ -1,9 +1,9 @@
 <h1 align="center">Hi!! 👋 I'm Bruna Gonçalves</h1>
 <h3 align="center">I'm in the last period of production engineering in CEFET/RJ</h3>
 
-- 🌱 I'm currently learning **Phyton, SQL (SQL Server, Postgresql)**
+- 📈I'm currently learning **Phyton, SQL (SQL Server, Postgresql)**
 
-- 💬 Ask me about **Power BI, Tableau, SQL,Google Data Studio**
+- 📊 💬 Ask me about **Power BI, Tableau, SQL,Google Data Studio**
 
 - 📫 How to reach me **gpcbruna@gmail.com**
 

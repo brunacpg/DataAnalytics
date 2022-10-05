@@ -1,6 +1,14 @@
 <h1 align="center">Hi!! 👋 I'm Bruna Gonçalves</h1>
 <h3 align="center">I'm in the last period of production engineering in CEFET/RJ</h3>
 
+<div align="center">
+  <a href="https://github.com/brunacpg">
+  <img height="120em" src="https://github-readme-stats.vercel.app/api?username=brunacpg&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunacpg&layout=compact&langs_count=7&theme=dark"/>
+</div>
+
+  ##
+
 - 📈I'm currently learning **Phyton, SQL (SQL Server, Postgresql)**
 
 - 📊 💬 Ask me about **Power BI, Tableau, SQL,Google Data Studio**

@@ -1,5 +1,5 @@
 <h1 align="center">Hi!! 👋 I'm Bruna Gonçalves</h1>
-<h3 align="center">I'm in the last period of production engineering in CEFET/RJ</h3>
+<h3 align="center">I have a degree in Production Engineering and I'm currently pursuing a Postgraduate degree in Analytics and Business Intelligence. I fell in love with technology.</h3>
 
 <div align="center">
   <a href="https://github.com/brunacpg">
@@ -9,13 +9,15 @@
 
   ##
 
-- 📈I'm currently learning **Phyton, SQL (SQL Server, Postgresql)**
+- 📈I'm currently learning ** HTML, CSS, JavaScript**
 
-- 📊 💬 Ask me about **Power BI, Tableau, SQL,Google Data Studio**
+- 📊 Ask me about **Power BI, Tableau, SQL, Looker Studio, Python, Visualização de dados, Web Analytics, GTM, GA4 **
 
-- 📫 How to reach me **gpcbruna@gmail.com**
+- 📫 How to reach me **gpcbruna@gmail.com** 
 
 - 📄 Know about my experiences [www.linkedin.com/in/bruna-gonçalves-6b19b21b5](www.linkedin.com/in/bruna-gonçalves-6b19b21b5)
+
+- 💬 My Portfolio: https://l1nq.com/bruna-goncalves-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
